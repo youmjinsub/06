@@ -7,7 +7,7 @@
 ![1](https://user-images.githubusercontent.com/112995645/194897755-5dfc887f-93a5-4864-96b3-c077c2999c3a.PNG)
 
 현재 브랜치가 main이라는 것을 확인할 수 있습니다.
-
+<br>
 
 6.2.2 기본 브랜치
 ----------------
